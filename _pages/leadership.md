@@ -10,15 +10,15 @@ author_profile: true
 - Mentoring a team of five junior quantitative experts.
 - Responsible for smoothly running the organization by serving as administrator.
 - Helping graduate students and post-docs with quantitative research methods.
-- Conducting workshops to teach Factor Models, Time Series Analysis, and Quantitative Finance to graduate students in the School of Business, UCR.
-
+- Conducting workshops to teach Factor Models, Time Series Analysis, and Quantitative Finance.
+  
 ****
 
 ## Classroom Teaching at University of California, Riverside
 
 - Primary Course Instructor, Dept. of Economics, UC Riverside. ([Reviews2023](http://rajveerjat.github.io/files/Teaching_files/Summer2023_reviews.pdf), [Reviews2024](http://rajveerjat.github.io/files/Teaching_files/Summer2024_reviews.pdf))
-- Teaching Assistant for Econometric Theory: PhD Level Course. [Syllabus](http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf), [Reviews](http://rajveerjat.github.io/files/Teaching_files/Spring2024_reviews.pdf).
-- Teaching Assistant for The Stock Market Course. (Fall [Reviews2021](http://rajveerjat.github.io/files/Teaching_files/Fall2021_reviews.pdf), Spring 2023 [Reviews2023](http://rajveerjat.github.io/files/Teaching_files/Spring2023_reviews.pdf))
+- Teaching Assistant for Econometric Theory: PhD Level Course. ([Syllabus](http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf), [Reviews](http://rajveerjat.github.io/files/Teaching_files/Spring2024_reviews.pdf).
+- Teaching Assistant for The Stock Market Course. ([Reviews2021](http://rajveerjat.github.io/files/Teaching_files/Fall2021_reviews.pdf), [Reviews2023](http://rajveerjat.github.io/files/Teaching_files/Spring2023_reviews.pdf))
 
 ****
 
