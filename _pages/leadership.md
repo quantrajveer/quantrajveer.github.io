@@ -17,7 +17,7 @@ author_profile: true
 ## Classroom Teaching at University of California, Riverside
 
 - Primary Course Instructor, Dept. of Economics, UC Riverside. ([Reviews2023](http://rajveerjat.github.io/files/Teaching_files/Summer2023_reviews.pdf), [Reviews2024](http://rajveerjat.github.io/files/Teaching_files/Summer2024_reviews.pdf))
-- Teaching Assistant for Econometric Theory: PhD Level Course. ([Syllabus](http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf), [Reviews](http://rajveerjat.github.io/files/Teaching_files/Spring2024_reviews.pdf).
+- Teaching Assistant for Econometric Theory: PhD Level Course. ([Syllabus](http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf), [Reviews](http://rajveerjat.github.io/files/Teaching_files/Spring2024_reviews.pdf))
 - Teaching Assistant for The Stock Market Course. ([Reviews2021](http://rajveerjat.github.io/files/Teaching_files/Fall2021_reviews.pdf), [Reviews2023](http://rajveerjat.github.io/files/Teaching_files/Spring2023_reviews.pdf))
 
 ****
@@ -51,4 +51,3 @@ author_profile: true
 
 - "Prof. Rajveer Jat has demonstrated excellent teaching skills and deep academic knowledge during this semester. He not only possesses solid knowledge of economics but also has the ability to impart complex concepts to students in a concise and easy-to-understand manner. In the classroom, he stimulated students' interest and encouraged them to actively participate in discussions and reflections through vivid case studies and his own research methodology in agriculture."
 
-- "The TA makes a really great learning
