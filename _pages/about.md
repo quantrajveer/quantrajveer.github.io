@@ -17,6 +17,6 @@ My research interests include Non-parametric Econometric Theory, High-dimensiona
 
 My CV can be found <a href="http://thetherajveer.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-My Job Market Paper can be found <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+My Job Market Paper can be found <a href="http://thetherajveer.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 I'm serving as the Lead Consultant at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center (GradQuant, UCR)</a>, which helps graduate students and postdoctoral scholars with quantitative data analysis, computer programming, and research methods.
