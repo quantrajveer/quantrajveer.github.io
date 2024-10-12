@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Quantitative and Programming Experience"
+title: "Programming Experience in Quantitative Problems"
 permalink: /exp/
 author_profile: true
 ---
@@ -51,3 +51,13 @@ author_profile: true
 
 - **Skills Used**  
   - C++, Java, Object-Oriented Programming, Iterations, Conditional Statements.
+
+ 
+## Formal Programming Courses Taken 
+  - Fundamentals of Object Oriented Programming Using C++: Indian Institute of Technology, Roorkee.
+  - Data Structures: Indian Institute of Technology, Roorkee.
+  - Assembly Level Programming and Subroutines: Indian Institute of Technology, Roorkee.
+  - Statistical Learning with R: Indian Statistical Institute.
+  - Computational Learning in Python: University of California, Riverside (audit).
+  - Statistical Computing with R Programming: University of California, Riverside (audit).
+  - Deep Learning: Coursera. 
