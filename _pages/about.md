@@ -9,12 +9,14 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. Candidate in Economics at the University of California, Riverside, currently on the job market for the 2024-2025 academic year.
+I am a Ph.D. Candidate in Econometrics at the University of California, Riverside.
 
-My research interests include Econometric Theory, Causal Inference, and Machine Learning. My work focuses on developing quantitative methods for economics by understanding the fundamental aspects of the data-generating process. My research primarily applies to Macro, Finance, Development, Empirical IO, and non-linear modeling problems in applied economics.
+I'm actively looking for full-time Quantitative Researcher roles.
 
-My CV can be found <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+My research interests include Non-parametric Econometric Theory, High-dimensional Statistics, Causal Inference, Supervised Learning, and Empirical Process Theory. My work focuses on developing quantitative methods for real-world problems by understanding the fundamental aspects of the data-generating process.
+
+My CV can be found <a href="http://thetherajveer.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 My Job Market Paper can be found <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-I'm serving as the Lead Consultant at <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center (GradQuant, UCR)</a>  starting July 2024. GradQuant helps UCR graduate students and postdoctoral scholars with individualized consultations and specialized workshops in quantitative data analysis, computer programming, and research methods.
+I'm serving as the Lead Consultant at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center (GradQuant, UCR)</a>, which helps graduate students and postdoctoral scholars with quantitative data analysis, computer programming, and research methods.
