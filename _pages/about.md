@@ -15,7 +15,7 @@ I'm actively looking for full-time Quantitative Researcher roles.
 
 My research interests include Non-parametric Econometric Theory, High-dimensional Statistics, Causal Inference, Supervised Learning, and Empirical Process Theory. My work focuses on developing quantitative methods for real-world problems by understanding the fundamental aspects of the data-generating process.
 
-My CV can be found <a href="http://thetherajveer.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+My resume can be found <a href="http://thetherajveer.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 My Job Market Paper can be found <a href="http://thetherajveer.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
