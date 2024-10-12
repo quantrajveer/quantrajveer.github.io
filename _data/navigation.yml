@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
+  - title: "Quant Research"
     url: /research/
 
-  - title: "Experience"
+  - title: "Programming Experience"
     url: /exp/    
 
   - title: "Maths-Training"
