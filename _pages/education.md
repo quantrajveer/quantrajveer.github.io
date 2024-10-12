@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## PhD in Economics , University of California, Riverside (Expected: 2025)
+## PhD in Economics, University of California, Riverside (Expected: 2025)
   Specialization: Econometrics          
 
 - **Relevant Courses:**  
