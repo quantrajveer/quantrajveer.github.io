@@ -5,8 +5,9 @@ permalink: /education/
 author_profile: true
 ---
 
-## PhD in Economics , University of California, Riverside 
- ### Specialization: Econometrics          Expected: 2025
+## PhD in Economics , University of California, Riverside (Expected: 2025)
+  Specialization: Econometrics          
+
 - **Relevant Courses:**  
   Stochastic Calculus, Non-parametric Statistics, Advanced Time Series, Semi-parametric Methods, Real Analysis, Topology, Measure-Theoretic Probability, Computational Learning, Statistical Computing with R, Discrete Data Analysis, High-dimensional Statistics, Deep Learning (DL), High-Speed Parallel Computation.
 
