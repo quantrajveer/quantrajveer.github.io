@@ -13,7 +13,7 @@ I am a Ph.D. Candidate in Econometrics at the University of California, Riversid
 
 I'm actively looking for full-time Quantitative Researcher roles.
 
-My research interests include Non-parametric Econometric Theory, High-dimensional Statistics, Causal Inference, Supervised Learning, and Empirical Process Theory. My work focuses on developing quantitative methods for real-world problems by understanding the fundamental aspects of the data-generating process.
+My research interests include Non-parametric Statistics, High-dimensional Econometrics, Machine Learning, Causal Inference, and Empirical Process Theory. My work focuses on developing quantitative methods for real-world problems by understanding the fundamental aspects of the data-generating process.
 
 My resume can be found <a href="http://thetherajveer.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
