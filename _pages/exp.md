@@ -5,6 +5,19 @@ permalink: /exp/
 author_profile: true
 ---
 
+## PhD Research at the University of California, Riverside (Jul '21 - Ongoing)
+
+- **Brief Description**  
+   - Developed new methods of forecasting using cutting-edge mathematical tools such as Reproducing Kernel Hilbert Space.
+   - Designed multi-layered tractable deep learning framework for causal inferece problems. 
+
+- **Skills Used**
+- R Programming: Computationally efficient function writing, high-speed parallel computing, optimization, np (non-parametric) package, out of sample model evaluations. 
+- Python: PyTorch, autoencoders, hyperparameter tuning, Scikit-learn, GPU-based computations.
+
+****
+
+
 ## Quant Consultant, Research Triangle Institute (RTI) International (Jul '21 - Jun '22)
 
 - **Brief Description**  
