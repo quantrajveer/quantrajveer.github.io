@@ -11,7 +11,7 @@ Welcome!
 
 I am a Ph.D. Candidate in Econometrics at the University of California, Riverside.
 
-I'm actively looking for full-time Quantitative Researcher roles.
+I'm actively looking for full-time Quantitative Researcher or Data Science roles.
 
 My research interests include Non-parametric Statistics, High-dimensional Econometrics, Machine Learning, Causal Inference, and Empirical Process Theory. My work focuses on developing quantitative methods for real-world problems by understanding the fundamental aspects of the data-generating process.
 
