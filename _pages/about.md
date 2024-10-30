@@ -7,26 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-# Rajveer Jat | Ph.D. Candidate in Econometrics  
-**University of California, Riverside**  
-Actively seeking **Quantitative Researcher** roles.
+Welcome to my professional portfolio! 
 
----
+My research focuses on blending cutting-edge econometric techniques with machine learning to address challenging problem in finance. 
 
-Welcome to my professional portfolio! As a Ph.D. Candidate specializing in **High-Dimensional Econometrics**, my research focuses on blending cutting-edge econometric techniques with machine learning to address complex challenges in the finance industry.
+I'm actively seeking **Quantitative Researcher** roles, check out my [Research](http://thetherajveer.github.io/research/).
 
----
-
-## Research Focus  
-- **Econometrics & Machine Learning:** Non-parametrics, High-dimensional Econometrics, Causal Inference, Time Series Forecasting.  
-- **Financial Applications:** Macro-Financial data, Risk Management, Extreme Event Prediction, Financial Forecasting.
-
-I bring deep expertise in high-dimensional data analysis, making my skill set uniquely suited to the financial sector. For more details, visit my [Research](http://thetherajveer.github.io/research/) page.
+- **Areas of Research:** Non-parametrics, High-dimensional Econometrics, Causal Inference, Time Series Forecasting.  
+- **Application Areas:** Macro-Financial data, Risk Management, Extreme Event Prediction, Financial Forecasting.
 
 ---
 
 ## Professional News
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <!-- Line with three stars -->
@@ -38,7 +30,7 @@ I bring deep expertise in high-dimensional data analysis, making my skill set un
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Appointed Director of the [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/) at UC Riverside.
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[June 2024] Paper accepted for publication in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255), one of the top journals in the field.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[June 2024] Paper under review in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255), one of the top journals in the field.
 
 <style>
   .flashing {
