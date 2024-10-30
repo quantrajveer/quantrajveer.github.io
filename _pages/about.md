@@ -7,17 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Welcome to my website!
 
-I am a Ph.D. Candidate in Econometrics at the University of California, Riverside.
+I'm a Ph.D. Candidate in Econometrics at the University of California, Riverside and am actively looking for full-time Quantitative Researcher roles.
 
-I'm actively looking for full-time Quantitative Researcher or Data Science roles.
+Research interests: Non-parametrics, High-dimensional Econometrics, Machine Learning, Causal Inference, and Time Series Forecasting. 
 
-Research interests: Non-parametric Statistics, High-dimensional Econometrics, Machine Learning, Causal Inference, and Empirical Process Theory. 
-
-I develop quantitative methods for real-world problems by understanding the fundamental aspects of the data-generating process.
-
-Check my <a href="http://thetherajveer.github.io/research/" target="_blank" rel="noopener noreferrer">Quantitative Research</a>.
+I develop quantitative methods for real-world problems (e.g. risk, extreme events, forecasting, causal inference) by understanding the fundamental aspects of the data-generating process, check out my <a href="http://thetherajveer.github.io/research/" target="_blank" rel="noopener noreferrer">Research</a>.
 
 
 ****
