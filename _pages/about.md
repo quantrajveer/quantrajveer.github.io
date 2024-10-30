@@ -13,8 +13,8 @@ I blend cutting-edge econometrics with machine learning to solve challenging pro
 
 I'm actively seeking **Quantitative Researcher** roles, check out my [Research](http://thetherajveer.github.io/research/).
 
-Areas of Research: Econometrics, Non-parametrics, High-dimensions, Causal Inference, Time Series, Forecasting.  
-Application Areas: Macro-Financial data, Risk Management, Extreme Event Prediction, Financial Forecasting.
+Expertise: Econometrics, Non-parametrics, High-dimensions, Causal Inference, Time Series.  
+Applications: Macro-Financial data, Risk, Extreme Event Prediction, Financial Forecasting.
 
 
 ## News
