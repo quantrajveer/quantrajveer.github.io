@@ -29,10 +29,10 @@ I enjoy developing quantitative methods to solve real-world problems (e.g. risk,
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [Sep 2024] Presenting in The 2024: California Econometric Conference, hosted by UC Davis this year. [Past Conference Link](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/california-econometrics) 
 
 <!-- Fixed: Properly close the <i> tags -->
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>(July 2024) Graduate Division, University of California Riverside appointed me to lead university's [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/).
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Appointed to lead [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/) at University of California Riverside by Graduate Division.
 
 <!-- Fixed: Properly close the <i> tags -->
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>(June 2024) Paper accepted for review process in the best field journal, the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255).
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[June 2024] Paper accepted for review process in one of the best field journal, the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255).
 
 <style>
   .flashing {
