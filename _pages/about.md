@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! 
 
-I blend cutting-edge econometrics with machine learning to solve challenging problems in macro-financial data, risk, extreme event prediction, financial forecasting.  
+I blend cutting-edge econometrics with machine learning to solve challenging problems in macro-financial data, risk modeling, extreme event prediction, and financial forecasting.  
 
 I'm actively seeking **Quantitative Researcher** roles, check out my [Research](http://thetherajveer.github.io/research/).
 
@@ -25,7 +25,7 @@ Research Areas: Econometrics, Non-parametrics, High-dimensions, Causal Inference
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Sep 2024] Presented at the California Econometric Conference, hosted by UC Davis. [Learn more](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/california-econometrics).
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Appointed Director of the [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/) at UC Riverside.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Appointed Lead of the [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/) at UC Riverside.
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[June 2024] Paper under review in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255), one of the top journals in the field.
 
