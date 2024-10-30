@@ -9,14 +9,13 @@ redirect_from:
 
 Welcome to my professional portfolio! 
 
-My research focuses on blending cutting-edge econometric techniques with machine learning to address challenging problem in finance. 
+I blend cutting-edge econometrics with machine learning to solve challenging problems in finance. 
 
 I'm actively seeking **Quantitative Researcher** roles, check out my [Research](http://thetherajveer.github.io/research/).
 
-- **Areas of Research:** Non-parametrics, High-dimensional Econometrics, Causal Inference, Time Series Forecasting.  
-- **Application Areas:** Macro-Financial data, Risk Management, Extreme Event Prediction, Financial Forecasting.
+- Areas of Research: Non-parametrics, High-dimensional Econometrics, Causal Inference, Time Series Forecasting.  
+- Application Areas: Macro-Financial data, Risk Management, Extreme Event Prediction, Financial Forecasting.
 
----
 
 ## Professional News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
