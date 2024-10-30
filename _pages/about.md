@@ -9,13 +9,11 @@ redirect_from:
 
 Welcome! 
 
-I blend cutting-edge econometrics with machine learning to solve challenging problems in finance. 
+I blend cutting-edge econometrics with machine learning to solve challenging problems in macro-financial data, risk, extreme event prediction, financial forecasting.  
 
 I'm actively seeking **Quantitative Researcher** roles, check out my [Research](http://thetherajveer.github.io/research/).
 
-Expertise: Econometrics, Non-parametrics, High-dimensions, Causal Inference, Time Series.  
-Applications: Macro-Financial data, Risk, Extreme Event Prediction, Financial Forecasting.
-
+Research Areas: Econometrics, Non-parametrics, High-dimensions, Causal Inference, Time Series.  
 
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
