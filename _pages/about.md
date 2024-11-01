@@ -11,9 +11,9 @@ Welcome!
 
 I blend cutting-edge econometrics with machine learning to solve challenging problems in macro-financial data, risk modeling, extreme event prediction, and financial forecasting.  
 
-I'm actively seeking **Quantitative Researcher** roles, check out my [Research](http://thetherajveer.github.io/research/).
+I'm actively looking for *Quantitative Researcher and Data Scientist* roles, check out my [Research](http://thetherajveer.github.io/research/).
 
-Research Areas: Econometrics, Non-parametrics, High-dimensions, Causal Inference, Time Series.  
+Research Areas: Econometrics, Non-parametrics, High-dimensions, AI, Causal ML, Time Series.  
 
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
