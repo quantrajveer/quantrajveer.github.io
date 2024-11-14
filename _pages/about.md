@@ -27,7 +27,7 @@ Research Areas: Econometrics, Non-parametrics, High-dimensions, AI, Causal ML, T
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Appointed Lead of the [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/) at UC Riverside.
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[June 2024] Paper under review in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255), one of the top journals in the field.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Paper under review in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255), one of the top journals in the field.
 
 <style>
   .flashing {
