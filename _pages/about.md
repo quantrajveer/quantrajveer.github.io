@@ -19,7 +19,7 @@ Research Areas: Econometrics, Non-parametrics, High-dimensions, AI, Causal ML, T
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <!-- Line with three stars -->
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Dec 2024] Presenting at the prestigious [2024 European Winter Meeting of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) in Palma, Spain.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Dec 2024] Presenting at the [European Winter Meeting of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) in first-day first session in  Palma de Mallorca, Spain.
 
 <i class="fas fa-star flashing"></i> [Nov 2024] Presenting at the [34th Annual Midwest Econometrics Group Conference](https://gatton.uky.edu/meg2024) in Lexington, KY, USA.
 
